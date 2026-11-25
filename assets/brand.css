@@ -1,0 +1,5 @@
+.brand-link{display:inline-flex;align-items:center;gap:.75rem;color:#3e2723;text-decoration:none;font-size:.875rem;font-weight:650;line-height:1.2}
+.brand-link img{display:block;width:116px;height:auto}
+.brand-link span{border-left:1px solid #e0dad6;padding-left:.75rem}
+.brand-context{color:#70534a;font-size:.875rem}
+@media(max-width:420px){.brand-link{gap:.5rem}.brand-link img{width:98px}.brand-link span{padding-left:.5rem}}
